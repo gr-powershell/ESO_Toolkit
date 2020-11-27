@@ -1,0 +1,52 @@
+﻿Weapon Line,Skill Affected,Set,Normal Weapon,Perfected Weapon also grants:,Location
+Shield,Puncture,Puncturing Remedy,"When you deal damage with Puncture, you heal for 6130 Health and gain Spell and Physical Resistance equal to the amount of healing or over healing done for 5 seconds.",Also adds 3% Healing Taken,Dragonstar Arena (Craglorn)
+Shield,Low Slash,Rampaging Slash,"When you deal damage with Low Slash, your next fully-charged Heavy Attack used within 5 seconds restores 1904 Magicka and Stamina.",Also adds 77 Stamina Recovery,Maelstrom Arena (Wrothgar)
+,,,,Also adds 77 Magicka Recovery,
+Shield,Defensive Posture,Defensive Position,"When you reflect or absorb a spell projectile with Defensive Posture, you restore 2200 Magicka. If Defensive Posture expires without reflecting or absorbing a spell projectile, you restore 6600 Magicka instead.",Also adds 103 Stamina Recovery,Asylum Sanctorium
+,,,,,(Clockwork City)
+Shield,Shield Charge,Gallant Charge,Reduces the cost of Shield Charge by 25% and reduces the cost of your next non-Shield Charge One Hand and Shield ability cast within 3 seconds by 100%,Also adds 1190 Armor,Blackrose Prison
+,,,,,(Murkmire)
+Shield,Power Bash,Void Bash,"When you deal damage with Power Bash, you apply Call of the Void to yourself for 2 seconds. Enemies within 12 meters are immediately pulled to you. After Call of the Void ends, you apply Major Maim to enemies in the area for 10 seconds. This effect can occur once every 13 seconds.",Adds 965 Max Health,Vateshran Hollows
+,,,,,(Markarth)
+Dual Wield,Twin Slashes,Stinging Slashes,Twin Slashes deals 1635 more damage for each hit of the intial attack and bleed.,Also adds 666 Weapon Critical,Dragonstar Arena (Craglorn)
+Dual Wield,Flurry,Cruel Flurry,"When you deal damage with Flurry, your single target damage over time abilities used within 4 seconds gain 1690 Spell and Weapon Damage.",Also adds 103 Weapon Damage,Maelstrom Arena (Wrothgar)
+Dual Wield,Whirlwind,Chaotic Whirlwind,"When you cast Whirlwind, you envelop yourself in a destructive flurry of blades for 6 seconds that pulse outward, striking up to 3 random enemies around you every 1 second for 3450 Physical Damage. Cooldown: 10 seconds.",Also adds 666 Weapon Critical,Asylum Sanctorium
+,,,,,(Clockwork City)
+Dual Wield,Blade Cloak,Spectral Cloak,"Dealing damage with Blade Cloak grants you Spectral Cloak for 2 seconds, reducing your damage taken and increasing your damage done by 6%.",Also adds 103 Stamina Recovery,Blackrose Prison
+,,,,,(Murkmire)
+Dual Wield,Hidden Blade,Executioner's Blade,Hidden Blade deals 200% more damage to targets under 25% Health when you cast from behind them.,Adds 666 Weapon Critical,Vateshran Hollows
+,,,,,(Markarth)
+Two Handed,Cleave,Titanic Cleave,Increases the direct damage Cleave deals by 1550 for each enemy in its cone.,Also adds 1190 Physical Penetration,Dragonstar Arena (Craglorn)
+Two Handed,Critical Charge,Merciless Charge,Dealing damage with Critical Charge causes enemies to bleed for 12138 Physical Damage over 5 seconds.,Also adds 1190 Physical Penetration,Maelstrom Arena (Wrothgar)
+Two Handed,Reverse Slash,Disciplined Slash,"When you deal damage with Reverse Slash, you generate up to 12 Ultimate based on how much execute bonus damage it dealt.",Also adds 877 Maximum Stamina,Asylum Sanctorium
+,,,,,(Clockwork City)
+Two Handed,Uppercut,Radial Uppercut,Uppercut deals 45% of its damage to an enemy near your primary target,Also adds 1190 Physical Penetration,Blackrose Prison
+,,,,,(Murkmire)
+Two Handed,Momentum,Frenzied Momentum,"While Momentum is active, casting Stamina abilities generates a stack of Frenzied Momentum for 10 seconds, up to 5 times. Upon reaching max stacks, your next Heavy Attack will consume all stacks and release a violent explosion of energy around your target, dealing 10834 Physical Damage to them and all enemies within 8 meters of them.",Adds 877 Max Stamina,Vateshran Hollows
+,,,,,(Markarth)
+Bow,Poison Arrow,Caustic Arrow,Increases your Weapon Damage by 330 against targets affected by your Poison Arrow ability.,Also adds 103 Weapon Damage,Dragonstar Arena
+,,,,,(Craglorn)
+Bow,Volley,Thunderous Volley,"Increases the damage Volley deals by 430 each tick. This bonus increases by 143 every time Volley ticks, up to a maximum of 8 times.",Also adds 666 Weapon Critical,Maelstrom Arena (Wrothgar)
+Bow,Arrow Spray,Piercing Spray,"When you deal damage with Arrow Spray, you cause enemies hit to have 6600 less Physical Resistance against Bow attacks for 10 seconds.",Also adds 1190 Physical Penetration,Asylum Sanctorium
+,,,,,(Clockwork City)
+Bow,Scatter Shot,Virulent Shot,"Scatter Shot applies poison that deals 65% of your initial attack every 2 second for 4 seconds. The duration increases if you are further away from your target, up to a max of 12 seconds.",Also adds 666 Weapon Critical,Blackrose Prison
+,,,,,(Murkmire)
+Bow,Snipe,Point-Blank Snipe,Increases your damage done with Snipe by 33% against targets that are within 7 meters of you.,Adds 103 Weapon Damage,Vateshran Hollows
+,,,,,(Markarth)
+Destruction Staff,Destructive Touch,Destructive Impact,Reduces the cost of Destructive Touch by 10% and increases your Spell Damage by 600 for 4 seconds after activating it.,Also adds 103 Spell Damage,Dragonstar Arena (Craglorn)
+Destruction Staff,Wall of Elements,Crushing Wall,Your Light and Heavy Attacks deal an additional 1353 damage to enemies in your Wall of Elements.,Also adds 1190 Spell Penetration,Maelstrom Arena (Wrothgar)
+Destruction Staff,Force Shock,Concentrated Force,"Every 3rd application of Force Shock (within 10 seconds) always applies the Burning, Concussion, and Chilled status effects. The Force Shock casts must be made within 5 seconds of each other for this effect to occur.",Also adds 103 Spell Damage,Asylum Sanctorium
+,,,,,(Clockwork City)
+Destruction Staff,Impulse,Wild Impulse,"Reduce the cost of Impulse by 10%. Impulse places lingering elemental damage on your targets, dealing 5075 Flame, 5075 Shock, and 5075 Ice Damage over 8 seconds.",Also adds 1190 Spell Penetration,Blackrose Prison
+,,,,,(Murkmire)
+Destruction Staff,Weakness to Elements,Wrath of Elements,"Casting Weakness to Elements on a target within 15 meters of you causes a surge of elemental energy to tether between you for 10 seconds. While the tether persists and you remain within range, enemies touchign the tether take 2140 Flame, Shock, or Frost Damage every 1 second. This can occur once every 10 seconds.",Adds 1190 Spell Penetration,Vateshran Hollows
+,,,,,(Markarth)
+Restoration Staff,Grand Healing,Grand Rejuvenation,"The initial heal of Grand Healing invigorates you and allies affected for 4 seconds, restoring 117 Magicka and Stamina every 1 second.",Also adds 877 Maximum Magicka,Dragonstar Arena
+,,,,,(Craglorn)
+Restoration Staff,Regeneration,Precise Regeneration,"When you critically heal with Regeneration, you restore 500 Magicka. This effect cannot occur from simultaneous critical heals.",Also adds 666 Spell Critical,Maelstrom Arena (Wrothgar)
+Restoration Staff,Blessing of Protection,Timeless Blessing,"When you cast Blessing of Protection, the cost of your Magicka/Stamina healing abilities is reduced by 21% for 3 seconds.",Also adds 877 Maximum Magicka,Asylum Sanctorium
+,,,,,(Clockwork City)
+Restoration Staff,Steadfast Ward,Mender's Ward,"Steadfast Ward applies Major Vitality to your target for 2 seconds, increasing the Healing Taken on your target by 30%",Also adds 103 Magicka Recovery,Blackrose Prison
+,,,,,(Murkmire)
+Restoration Staff,Force Siphon,Force Overflow,"Casting Force Siphon on a target within 15 meters of you causes a surge of magical energy to tether between you for 10 seconds. While the tether persists and you remain in range, you and group members in the tether restore 175 Magicka & Stamina every 1 second. This effect can occur once every 10 seconds.",Adds 877 Max Magicka,Vateshran Hollows
+,,,,,(Markarth)

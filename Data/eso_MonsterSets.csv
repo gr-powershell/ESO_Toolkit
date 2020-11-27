@@ -1,0 +1,87 @@
+﻿Set (BoP tradeable for 2 hours),,1 piece,2 pieces,Location
+Balorgh,,Adds 129 Weapon Damage,"For 12 seconds after using an Ultimate ability, you gain Weapon Damage and Spell Damage equal to the amount of total Ultimate consumed and Physical & Spell Penetration equal to 23 times the amount spent.",March of Sacrifices
+(since Greymoor),,Adds 129 Spell Damage,,Urgalarg Chief-bane
+Blood Spawn,,Adds 129 Stamina Recovery,"When you take damage, you have a 6% chance to generate 8 Ultimate and increase your Physical and Spell Resistance by 3300 for 5 seconds. Cooldown: 5 seconds.",Spindleclutch II
+(since Greymoor),,,,Maj al-Ragath
+Chokethorn,,Adds 129 Magicka Recovery,"When you use a healing ability, you have a 33% chance to summon a strangler sapling that heals you or an ally within 15 meters for 24409 Health over 6 seconds. Cooldown: 10 seconds.",Elden Hollow I
+(since Greymoor),,,,Maj al-Ragath
+Domihaus,,Adds 1096 Max Stamina,"When you deal damage, create a ring of fire or ring of molten earth around you for 10 seconds which deals 1380 Flame Damage or 1380 Physical Damage every 1 second. Standing within the ring grants you 300 Weapon or Spell Damage. Cooldown: 15 seconds.",Falkreath Hold
+(since Greymoor),,Adds 1096 Magicka,,Urgalarg Chief-bane
+Earthgore,,Adds 2% Healing Done,"When you heal a group member that is under 50% Health you conjure a pool of quenching blood underneath them, which soaks up all negative effects instantly and heals the lowest health group member in the area for 29700 over 10 seconds. Cooldown: 20 seconds.",Bloodroot Forge
+(since Greymoor),,,,Urgalarg Chief-bane
+Engine Guardian,,Adds 129 Health Recovery,"When you use an ability, you have a 10% chance to summon a dwemer automation to heal 1955 Health and restore 550 Stamina or Magicka within 15 meters every 0.5 seconds for 6.5 seconds. Cooldown: 10 seconds.",Darkshade Caverns II
+(since Greymoor),,,,Maj al-Ragath
+Grothdarr,,Adds 1096 Max Magicka,"When you deal damage, you have a 10% chance to create lava pools that swirl around you, dealing 1800 Flame Damage to all enemies within 8 meters of you every 1 second for 5 seconds. Cooldown: 10 seconds.",Vaults of Madness
+,,,,Gilirion the Redbeard
+Grundwulf,,Adds 833 Weapon Critical,"Whenever you deal Critical Damage, restore 700 Magicka or Stamina, whichever maximum is higher. You also gain 350 of the other resource. (cooldown: 5 seconds)",Moongrave Fane
+(since Greymoor),,Adds 833 Spell Critical,,
+Iceheart,,Adds 833 Spell Critical,"When you deal Critical Damage, you have a 20% chance to gain a damage shield that absorbs 8600 damage for 6 seconds. While the damage shield holds, you deal 770 Frost Damage to all enemies within 5 meters of you every 1 second. Cooldown: 6 seconds.",Direfrost Keep
+,,,,Gilirion the Redbeard
+Ilambris,,Adds 1096 Max Magicka,"When you deal Flame or Shock Damage, you have a 33% chance to summon a meteor shower of that damage type dealing 2015 Damage to all enemies within 4 meters every 1 second for 5 seconds. Cooldown: 8 seconds.",Crypt of Hearts I
+(since Greymoor),,,,Gilirion the Redbeard
+Infernal Guardian,,Adds 1096 Max Magicka,"When you use a damage shield ability, you have a 50% chance to lob 3 mortars over 2 seconds at the furthest enemy from you that each deal 4430 Flame Damage to all enemies within 5 meters of the blast area. Cooldown: 6 seconds.",City of Ash I
+(since Greymoor),,,,Gilirion the Redbeard
+Kjalnar's Nightmare,,Adds 129 Spell Damage,"Dealing damage with a Light Attack puts a Bone stack on your enemy for 5 seconds if no previous stack was applied in the past one second. At 5 stacks, an undodgeable skeletal hand attacks your enemy after 1 second, knocking them into the air and stunning them for 3 seconds or if they cannot be stunned instead dealing 14500 Magic Damage. Once an enemy reaches 5 stacks, they cannot gain another Bone stack for 3 seconds.",Unhallowed Grave
+Kra'gh,,Adds 1487 Physical Penetration,"When you deal damage, you have a 10% chance to spawn dreugh limbs that create shockwaves in front of you dealing 1345 Physical Damage every 0.4 seconds for 1.2 seconds. Cooldown: 3 seconds.",Fungal Grotto I
+(since Greymoor),,,,Maj al-Ragath
+Lady Thorn,,Adds 1206 Max Health,"Casting an ability that costs Health spawns a blood ball for 10 seconds. This effect can occur every 10 seconds. Your or an ally near the blood ball can activate the Sanguine Burst Synergy, dealing 5000 Disease Damage to nearby enemies and applying Major Maim for 5 seconds which decreases their Damage Done by 30%. Enemies can only receive Major Maim from Sanguine Burst once every 30 seconds.",Castle Thorn
+Lord Warden,,Adds 1487 Armor,"When you take damage, you have a 50% chance to summon a shadow orb for 10 seconds that increases the Armor of you and group members within 8 meters by 3180. Cooldown: 10 seconds.",Imperial City Prison
+(since Greymoor),,,,Urgalarg Chief-bane
+Maarselok,,Adds 1096 Max Stamina,"When you Bash an enemy, you spew a cone of corruption, dealing 7200 Disease Damage to enemies over 4 seconds. This damage is increased by 5% for each negative effect the enemies have, up to 150% additional damage. (cooldown: 7 seconds)",Lair of Maarselok
+(since Greymoor),,,,
+Maw of the Infernal,,Adds 1096 Max Magicka,"When you deal damge with a Light or Heavy Attack, you have a 33% chance to summon a fire breathing Daedroth for 15 seconds. The Daedroth's attacks deal 3865 Flame Damage over 2 seconds. Cooldown: 15 seconds.",The Banished Cells II
+(since Greymoor),,,,Maj al-Ragath
+Mighty Chudan,,Adds 1487 Armor,Adds 1206 Max Health and gain Major Ward & Major Resolve at all times increasing your Physical & Spell Resistances by 5280.,Ruins of Mazzatun
+(since Greymoor),,,,Urgalarg Chief-bane
+Mighty Chudan,,Adds 2975 Armor,,
+(before Greymoor),,,,
+Molag Kena,,Adds 129 Spell Damage,When you deal damage with 2 consecutive Light Attacks you trigger Overkill for 6 seconds which increases your Weapon and Spell Damage by 560 but also increases the cost of your abiliities by 20%.,White-Gold Tower
+(since Greymoor),,Adds 129 Weapon Damage,,Urgalarg Chief-bane
+Mother Ciannait,,Adds 1096 Max Magicka,"While in combat, casting an ability with a cast time or channeling an ability grants you a Damage Shield that abosorbs 5000 Damage over 6 seconds. Cooldown: 6 seconds. Also restores 822 Magicka if the shield is broken.",Icereach
+(since Greymoor),,,,
+Nerien'eth,,Adds 129 Spell Damage,"When you deal direct damage, you have a 15% chance to summon a Lich crystal that explodes after 2 seconds to deal 9393 Magic Damage to all enemies within 4 meters. Cooldown: 3 seconds.",Crypt of Hearts II
+(since Greymoor),,,,Gilirion the Redbeard
+Nightflame (Bogdan),,Adds 1096 Max Magicka,"When you heal a friendly target, you have a 20% chance to summon a totem for 6 seconds that heals you and your allies within 5 meters for 2460 Health every 1 second. Cooldown: 6 seconds.",Elden Hollow II
+(since Greymoor),,,,Maj al-Ragath
+Pirate Skeleton,,Adds 1487 Armor,"When you take damage, you have a 10% chance to transform into a skeleton and gain Major Protection and Major Defile for 10 seconds, reducing your damage taken by 30% but reducing your Healing Received and Health Recovery by 15%. Cooldown: 15 seconds.",Blackheart Haven
+(since Greymoor),,,,Gilirion the Redbeard
+Scourge Harvester (Malubeth's),,Adds 1206 Max Health,"When you take damage, you have a 10% chance to create a beam that steals 5715 Health over 4 seconds from the attacker. While the beam holds you gain Major Vitality, increasing your Healing Received by 30%. The beam breaks if the enemy moves further than 8 meters away. Cooldown: 6 seconds.",Wayrest Sewers II
+(since Greymoor),,,,Maj al-Ragath
+Selene,,Adds 1096 Max Stamina,"When you deal direct melee damage, you have a 15% chance to call on a primal spirit that mauls the closest enemy in front of you after 1.5 seconds for 13364 Physical Damage. Cooldown: 4 seconds.",Selene's Web
+(since Greymoor),,,,Gilirion the Redbeard
+Sellistrix,,Adds 1096 Max Stamina,"When you deal damage, you create an earthquake under the enemy that erupts after 1.5 seconds, dealing 6836 Physical Damage to all enemies within 4 meters and stunning them for 3 seconds. Cooldown: 6 seconds.",Arx Corinium
+(since Greymoor),,,,Gilirion the Redbeard
+Sentinel of Rkugamz,,Adds 2% Healing Done,"When you heal a friendly target, summon a stationary dwemer spider that heals for 997? Health and restores 125 Stamina to you and your allies within 5 meters every 1 second for 7 seconds. Cooldown: 15 seconds.",Darkshade Caverns I
+(since Greymoor),,,,Maj al-Ragath
+Shadowrend,,Adds 129 Magicka Recovery,"When you take damage, you have a 15% chance to summon a shadowy Clannfear for 15 seconds. The Clannfear's attacks deal 800 Magic Damage and reduces the damage done by any enemy hit by 5% for 2 seconds. Cooldown: 15 seconds.",The Banished Cells I
+(since Greymoor),,,,Maj al-Ragath
+Slimecraw,,Adds 833 Weapon Critical,"Gain Minor Berserk at all times, increasing your damage done by 8%",Wayrest Sewers I
+,,Adds 833 Spell Critical,,Maj al-Ragath
+Spawn of Mephala,,Adds 1096 Max Stamina,"When you deal damage with a fully-charged Heavy Attack, you create a web for 10 seconds that deals 1340 Poison Damage every 1 second to all enemies within 4 meters and reduces their Movement Speed by 50%. Cooldown: 10 seconds.",Fungal Grotto II
+(since Greymoor),,,,Maj al-Ragath
+Stone Husk,,Adds 833 Weapon Critical,"Your Heavy Attacks (not just fully charged) tether you to enemies within 10 meters for 5 seconds. Enemies touchign the tether take 1906 Physical Damage every 1 second and you gain a stack of Husk Drain, up to 15 stacks. The tether is broken if the enemy moves 12 meters from you. This effect can occur once every 10 seconds. When the tether ends, you consume the stacks and for 5 seconds gain 30 Weapon Damage per stack consumed.",Castle Thorn
+Stonekeeper,,Adds 603 Max Health;,"When you block an attack, gain an Energy Charge stack, up to one stack per 0.25 second. When you gain 6 Charges, you release energy, restoring 2480 Stamina and Magicka and heal for 2480. After releasing the charges you cannot regain new Charges for 14 seconds.",Frostvault
+(since Greymoor),,Adds 548 Max Stamina;,,Urgalarg Chief-bane
+,,Adds 548 Max Magicka,,
+Stormfist,,Adds 129 Stamina Recovery,"When you deal damage, you have a 10% chance to create a thunderfist to crush the enemy, dealing 1650 Shock Damage which bypasses Spell Resistance every 1 second for 3 seconds to all enemies within 4 meters and a final 8470 Physical Damage when the fist closes. Cooldown: 8 seconds.",Tempest Island
+(since Greymoor),,,,Gilirion the Redbeard
+Swarm Mother,,Adds 1096 Max Magicka,"When you block an attack from an enemy who is between 8-22 meters from you, you spin strands of spider silk to pull the enemy to you. Cooldown: 1 second.",Spindleclutch I
+(since Greymoor),,Adds 1096 Max Stamina,,Maj al-Ragath
+Symphony of Blades,,Adds 2% Healing Done,"When you heal an ally whose primary resource is under 50%, grant them Meridia's Favor, restoring 570 of that resource every second for 6 seconds. (cooldown: 18 seconds per target)",Depths of Malatar
+(since Greymoor),,,,Urgalarg Chief-bane
+The Troll King,,Adds 2% Healing Done,"When you heal a friendly target, if they are still below 50% Health their Health Recovery is increased by 1548 for 10 seconds.",Blessed Crucible
+,,,,Gilirion the Redbeard
+Thurvokun,,Adds 1206 Max Health,"When a nearby enemy damages you, summon a growing pool of desecrated bile for 8 seconds. Enemies in the bile receive 100 Disease Damage every 1 second and are afflicted with Minor Maim and Minor Defile, reducing their damage done and healing received by 15%. Cooldown: 16 seconds.",Fang Lair
+(since Greymoor),,,,Urgalarg Chief-bane
+Tremorscale,,Adds 1096 Max Stamina,"When you taunt an enemy, you cause a duneripper to burst from the ground beneath them for 1 second, dealing 6000 Physical Damage to all enemies within 4 meters and reducing their Physical Resistance by 2395 for 8 seconds. Cooldown: 8 seconds.",Volenfell
+(since Greymoor),,,,Gilirion the Redbeard
+Troll King,,Adds 4% Healing Done,"When you heal yourself or an ally, if they are still below 50% Health, their Health Recovery is increased by 925 for 10 seconds.",Blessed Crucible
+(since Greymoor),,,,Glirion the Redbeard
+Valkyn Skoria,,Adds 1487 Spell Penetration,"When you deal damage with a damage over time effect, you have a 8% chance to summon a meteor that deals 9000 Flame Damage to the target and 3535 Flame Damage to all other enemies within 5 meters. Cooldown: 5 seconds.",City of Ash II
+(since Greymoor),,,,Gilirion the Redbeard
+Velidreth,,Adds 129 Weapon Damage,"When you deal damage, you have a 20% chance to spawn 3 disease spores in front of you after 1 second that deal 10752 Disease Damage to the first enemy they hit. Cooldown: 8 seconds.",Cradle of Shadows
+(since Greymoor),,,,Urgalarg Chief-bane
+Vykosa,,Adds 4% Healing Taken,"When you bash an enemy you have taunted, you frighten them with a deafening howl, applying Major Maim to them for 3 seconds, lowering their damage done by 30%. This effect can occur once every 15 seconds.",Moon Hunter Keep
+,,,,Urgalarg Chief-bane
+Zaan,,Adds 833 Spell Critical,"When you deal Critical Damage with a Light or Heavy Attack to a nearby enemy, you have a 33% chance to create a beam of fire that connects you to the enemy. The beam deals 2010 Flame Damage every 1 second for 6 seconds. Every second this damage increases by 100%. The beam is broken if the enemy moves 8 meters away from you. This effect can occur every 18 seconds.",Scalecaller Peak
+(since Greymoor),,,,Urgalarg Chief-bane

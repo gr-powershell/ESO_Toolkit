@@ -1,0 +1,9 @@
+﻿Item,Slot,Bonus,Location
+Pearls of Ehlnofey,Necklace?,"Whenever you cast a Healing ability while your dominant resource is under 30%, you gain 5 Ultimate.",Markarth
+Torc of Tonal Constancy,Necklace,"While your Stamina is less than 50%, increases your Magicka Recovery by 450. While your Magicka is less than 50%, increases your Stamina Recovery by 450.",
+Malacath's Band of Brutality,Ring,Increases your Damage Done by 25% but you cannot deal Critical Damage.,
+Ring of the Wild Hunt,Ring,Increases your Movement Speed by 15% while in combat and 45% while out of combat.,
+Ring of the Pale Order,Ring,Restores 15% of the damage you deal as Health. You cannot be healed by anyone but yourself.,Markarth
+Bloodlord's Embrace,Heavy Chest,"Dealing damage with a Bash attack places a persistent, un-cleansable Blood Curse on an enemy. You can only have one Blood Cursed enemy at a time and dealing additional Bash damage removes the Blood Curse. Blocking an attack from a Blood Cursed enemy restores 1535 Magicka to you. (cooldown: 1 second)",
+Snow Treaders,Medium Feet,"You are immune to Snares and Immobilizations that can be cleansed, but while in combat you cannot Sprint.",
+Thrassian Stranglers,Light Hands,"Killing an enemy grants you a persistant stack of Sload's Call, up to a maximum of 20 stacks. Each stack increases your Spell Damage by 150, but also increases your Damage Taken and reduces effectiveness of Damage Shields and Healing Taken by 2%. Removing Thrassian Stranglers, crouching, or going invisible removes all stacks of Sload's Call.",
